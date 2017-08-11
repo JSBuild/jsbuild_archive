@@ -1,0 +1,20 @@
+{
+  "name": "jsbuild-cli",
+  "description": "JSBuild CLI",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSBuild/jsbuild-cli.git"
+  },
+  "keywords": [],
+  "author": "Jamey McElveen <jamey@mcelveen.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JSBuild/jsbuild-cli/issues"
+  },
+  "homepage": "https://github.com/JSBuild/jsbuild-cli#readme"
+}
