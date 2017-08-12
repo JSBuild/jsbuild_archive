@@ -1,3 +1,10 @@
-/**
- * Created by jameym on 8/11/17.
- */
+const fs = require('fs');
+const path = require('path');
+const JSBuild = {};
+
+JSBuild.build = function (options) {
+
+};
+
+module.exports = JSBuild;
+
