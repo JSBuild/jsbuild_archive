@@ -1,7 +1,7 @@
 {
   "name": "jsbuild-cli",
   "description": "JSBuild CLI",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bin": {
     "jbuild": ",/bin/cli.js"
   },
