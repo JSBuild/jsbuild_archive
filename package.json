@@ -1,0 +1,25 @@
+{
+  "name": "jsbuild",
+  "description": "JSBuild",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "sanity": "jsbuild-cli",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSBuild/jsbuild.git"
+  },
+  "keywords": [],
+  "author": "Jamey McElveen <jamey@mcelveen.us> (http://jameymcelveen.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSBuild/jsbuild/issues"
+  },
+  "homepage": "https://github.com/JSBuild/jsbuild#readme",
+  "devDependencies": {
+    "lerna": "^2.0.0"
+  },
+  "dependencies": {}
+}
